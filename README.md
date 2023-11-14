@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Freawet&theme=dark&show_icons=true)
 # Skills and Expriance
 Skills: Cissco / Cisco Packet Tracer / Java / HTML 
-### 🖥 Java , HTML 
+### 🖥 Java , HTML.
 
 
 - 🔭 I’m currently working on Silkroad General hospita 

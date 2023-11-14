@@ -1,4 +1,4 @@
-I'm Freawet Mulubrhan
+# I'm Freawet Mulubrhan
      
 ![I am GitHub Readme Generator's creator](https://instagram.fadd1-1.fna.fbcdn.net/v/t51.2885-19/402883888_3830210027307452_5847536395861348127_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fadd1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=4O0AiNk2HOwAX9rWtW9&edm=ABmJApABAAAA&ccb=7-5&oh=00_AfArShvKAKmWZFhBmoO06ipQtxBh7tpw4sToiY1ZkfDdoA&oe=6558E058&_nc_sid=b41fef)
 
@@ -6,7 +6,7 @@ I'm Freawet Mulubrhan
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Freawet&theme=dark&show_icons=true)
-Skills and Expriance
+# Skills and Expriance
 Skills: Cissco / Cisco Packet Tracer / Java / HTML 
 
 - 🔭 I’m currently working on Silkroad General hospita 
